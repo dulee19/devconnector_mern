@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://duleedev:duleedev@devconnector.rjf54.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
